@@ -3,7 +3,7 @@
 ![Majula, from Dark Souls 2](174c74aa8c9e3c862bf6795885b9e302.png)
 
 ## Habilidades
-![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py,godot,mysql,ts)
+![My Skills](https://skillicons.dev/icons?i=html,css,cs,py,godot,mysql,ts,js)
 
 ## Estatísticas
 ![](https://github-readme-stats.shion.dev/api?username=dyingtrojan&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br)![](https://streak-stats.demolab.com/?user=dyingtrojan&theme=transparent&hide_border=true&locale=pt-br)
