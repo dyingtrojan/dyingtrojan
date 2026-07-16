@@ -6,6 +6,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,cs,py,godot,mysql,ts,js)
 
 ## Estatísticas
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dyingtrojan&theme=maroongold&animation=sequence&utcOffset=0)![](https://github-readme-stats.shion.dev/api?username=dyingtrojan&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://streak-stats.demolab.com/?user=dyingtrojan&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dyingtrojan&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dyingtrojan&theme=maroongold&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dyingtrojan&theme=maroongold&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dyingtrojan&theme=maroongold&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dyingtrojan&theme=maroongold&animation=sequence)
