@@ -11,9 +11,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dyingtrojan&theme=maroongold&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dyingtrojan&theme=maroongold&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dyingtrojan&theme=maroongold&animation=sequence&utcOffset=0)
-<div width="200">
-  ![My GitFut card](https://gitfut.com/dyingtrojan.png)](https://gitfut.com/dyingtrojan)
-</div>
+<img src="https://gitfut.com/dyingtrojan.png" alt="Alt Text" width="300" height="200">
 
 ## Coisas que eu gosto/Miscelânea.
 [![Now playing on spotatui](https://spotatui.com/widget/dyingtrojan.svg)](https://spotatui.com)
